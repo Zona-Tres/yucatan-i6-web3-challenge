@@ -91,3 +91,11 @@ El canister contiene las siguientes funciones:
   * Modifica el texto en un post. Requiere el identificador del post a actualizar y el texto a reemplazar.
 * **deletePost**
   * Borra un post en particular. Requiere el identificador del post a borrar.
+
+## Envía tu formulario
+
+Al finalizar tu ejercicio, envía este formulario con tus datos en [este link](https://docs.google.com/forms/d/e/1FAIpQLSe8DUXHwiX9yDa_34sUA7dNgVpqhknhFfAMPMmgHCqhaK255g/viewform) o navegando a la siguiente dirección:
+
+```
+https://docs.google.com/forms/d/e/1FAIpQLSe8DUXHwiX9yDa_34sUA7dNgVpqhknhFfAMPMmgHCqhaK255g/viewform
+```
